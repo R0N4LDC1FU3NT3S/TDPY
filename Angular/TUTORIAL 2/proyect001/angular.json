@@ -120,5 +120,8 @@
         }
       }
     }},
-  "defaultProject": "proyect001"
+  "defaultProject": "proyect001",
+  "cli": {
+    "analytics": "7cc6cbbe-e075-4c40-87c0-3815e5084743"
+  }
 }
